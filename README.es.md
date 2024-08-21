@@ -11,6 +11,8 @@ En este curso aprenderás a crear un entorno de desarrollo local utilizando Dock
 
 ### La Solución: Crear un Contenedor Virtual en Local usando Docker
 
+![Este contenido ha sido merged](rsc/first_real_merge.PNG)
+
 ## **Requisitos Previos**
 
 Asegúrate de tener instalados y abiertos:

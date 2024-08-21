@@ -11,6 +11,8 @@ In this course, you will learn how to create a local development environment usi
 
 ### The Solution: Create a Local Virtual Container using Docker
 
+![Este contenido ha sido merged](rsc/first_real_merge.PNG)
+
 ## **Prerequisites**
 
 Make sure you have installed and opened:
